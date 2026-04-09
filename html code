@@ -1,0 +1,98 @@
+html code
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Motorcycle Accessories Audit Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0f172a;
+            color: #e2e8f0;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            padding: 40px 20px;
+        }
+        h1 {
+            color: #38bdf8;
+        }
+        h2 {
+            color: #22c55e;
+        }
+        .card {
+            background: #1e293b;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 14px;
+            color: #94a3b8;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>🏍️ Motorcycle Accessories Audit Dashboard</h1>
+
+    <div class="card">
+        <h2>📌 Project Overview</h2>
+        <p>
+            This project is an Audit Dashboard designed for a motorcycle accessories shop to monitor 
+            sales, inventory, and overall business performance in real-time.
+        </p>
+        <p>
+            The dashboard helps shop owners make data-driven decisions by providing clear insights 
+            into revenue trends, stock levels, and product performance.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>🚀 Key Features</h2>
+        <ul>
+            <li>📊 Sales and revenue tracking</li>
+            <li>📦 Inventory monitoring with stock alerts</li>
+            <li>🔍 Product performance analysis</li>
+            <li>📈 Trend visualization for better decision-making</li>
+            <li>⚡ Interactive and user-friendly interface</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>🎯 Objective</h2>
+        <p>
+            The main goal of this dashboard is to improve operational efficiency, reduce stock issues, 
+            and enhance overall business performance using data analytics.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>🛠️ Use Case</h2>
+        <p>
+            This dashboard can be used by shop owners and managers to quickly analyze sales patterns, 
+            identify fast-moving and slow-moving products, and ensure effective inventory management.
+        </p>
+    </div>
+
+    <footer>
+        <p>Built for learning & real-world business insights 🚀</p>
+    </footer>
+</div>
+
+</body>
+</html>
